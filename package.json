@@ -1,0 +1,22 @@
+{
+  "name": "priorityqueuejs",
+  "version": "1.0.0",
+  "description": "A simple efficient Javascript implementation of priority queues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafilevy/PriorityQueueJs.git"
+  },
+  "author": "Rafi Levy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rafilevy/PriorityQueueJs/issues"
+  },
+  "homepage": "https://github.com/rafilevy/PriorityQueueJs#readme",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^5.0.3"
+  }
+}
