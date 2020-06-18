@@ -1,22 +1,30 @@
 {
-  "name": "priorityqueuejs",
-  "version": "1.0.0",
-  "description": "A simple efficient Javascript implementation of priority queues.",
-  "main": "index.js",
+  "name": "@rafi_levy/priorityqueuejs",
+  "version": "1.1.0",
+  "description": "A Typescript implementation of proiority queues using a binary heap",
+  "main": "dist/PriorityQueueJs.js",
+  "types": "dist/PriorityQueueJs.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafilevy/PriorityQueueJs.git"
   },
+  "keywords": [
+    "priority",
+    "queue",
+    "javascript",
+    "js",
+    "queue"
+  ],
   "author": "Rafi Levy",
-  "license": "GPL-3.0-or-later",
+  "license": "SEE LICENCE IN LICENSE",
   "bugs": {
     "url": "https://github.com/rafilevy/PriorityQueueJs/issues"
   },
   "homepage": "https://github.com/rafilevy/PriorityQueueJs#readme",
   "devDependencies": {
-    "jsdoc-to-markdown": "^5.0.3"
+    "typescript": "^3.9.5"
   }
 }
