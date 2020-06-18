@@ -4,4 +4,4 @@ An efficient implementation of priority queue's in Typescript/Javascript - imple
 
 ## Documentation
 
-[Click here]()
+[Click here](https://rafilevy.github.io/PriorityQueueJs/)
