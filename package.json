@@ -1,6 +1,6 @@
 {
   "name": "@rafi_levy/priorityqueuejs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Typescript implementation of proiority queues using a binary heap",
   "main": "dist/PriorityQueueJs.js",
   "types": "dist/PriorityQueueJs.d.ts",
