@@ -1,4 +1,3 @@
-
 /**
  * An error specific to priority queue operations
  */
